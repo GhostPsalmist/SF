@@ -2,15 +2,7 @@ Requirements:
 
 Just use: 'pip install -r requirements'
 
-If needed manually for some reason:
-
-Instaloader - https://instaloader.github.io/
-
-To Install:
-pip3 install instaloader
-
-To Update:
-pip3 install --upgrade instaloader
-
 How to use get_followers.py:
-'python3 get_followers.py targetusername >> targetusername.txt'
+'python3 get_followers.py targetusername'
+
+Ouputs results to: targetusername.csv
