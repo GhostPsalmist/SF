@@ -1,4 +1,9 @@
 Requirements:
+
+Just use: 'pip install -r requirements'
+
+If needed manually for some reason:
+
 Instaloader - https://instaloader.github.io/
 
 To Install:
